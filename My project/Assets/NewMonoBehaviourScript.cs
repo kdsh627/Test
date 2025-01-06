@@ -7,22 +7,13 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Debug.Log("678");
         Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
-        Debug.Log("123");
-        Debug.Log("456");
+        Debug.Log("678");
+        Debug.Log("678");
+        Debug.Log("678");
+        Debug.Log("678");
+        Debug.Log("678");
     }
 
     // Update is called once per frame
