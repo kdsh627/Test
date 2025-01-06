@@ -7,7 +7,12 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Debug.Log("678");
         Debug.Log("123");
+        Debug.Log("678");
+        Debug.Log("678");
+        Debug.Log("678");
+        Debug.Log("678");
         Debug.Log("678");
     }
 
